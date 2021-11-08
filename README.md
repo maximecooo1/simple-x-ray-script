@@ -7,7 +7,7 @@ Using This Xray-Script You Can Experience a High-Speed Network Connection / Low 
 # Requirements
 
 01. Ubuntu-latest OS
-02. An UUID (You Can Generate UUID via This Site For Free: http://uuidgenerator.net )
+02. An UUID (You Can Generate UUID via This Site For Free: https://www.uuidtools.com/v4 )
 03. Use No Domain Script for Get Direct Connection via your host ip without using Qualified Domain Name.
 
 # Installation 
